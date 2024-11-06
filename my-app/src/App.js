@@ -3,9 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div >
-      <h1>hello from frontend </h1>
-    </div>
+    <div>
+      hello
+      </div>
   );
 }
 
